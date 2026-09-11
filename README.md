@@ -1,5 +1,13 @@
-- 👋 Hi, 👋 Hi, I’m @PH536-UI👀 I’m interested in technology, software development, and automation systems.🌱 I’m currently learning information technology and exploring new programming languages.💞️ I’m looking to collaborate on exciting tech projects and innovative solutions.📫 How to reach me: [Your email or LinkedIn profile]😄 Pronouns: he/him⚡ Fun fact: I'm a Mechanical Technician who loves merging industrial skills with tech innovations!
-<!---
-PH536-UI/PH536-UI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💥 Paulo Henrique Pereira | SRE | 4x AWS Certified
+Piracicaba-SP, Brazil | Chaos Engineering | Terraform | FLOCI
+
+🚀 Building **floci-resilience-lab** - 100 AWS services mocked offline for fault injection
+🔧 SRE | DevOps | AWS | Docker | Terraform | Python
+📜 4x AWS Certified [Credly](https://www.credly.com/users/paulo-henrique-pereira.ca06dff6)
+💼 Open to SRE / DevOps / Cloud roles
+
+#### 🔥 Pinned Projects
+- **[floci-resilience-lab](https://github.com/PH536-UI/floci-resilience-lab)** - Fault injection + 100 AWS mocked locally
+- **DevOps Toolkit** - K8s + Prometheus + Grafana observability stack
+
+📫 paulohenrique2020pereira@gmail.com
